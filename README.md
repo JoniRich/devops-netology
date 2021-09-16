@@ -2,8 +2,11 @@
 Домашнее задание к занятию «2.4. Инструменты Git»
 
 1.) aefead2207ef7e2aa5dc81a34aedf0cad4c32545 Update CHANGELOG.md
+
 2.) tag: v0.12.23
+
 3.) Merge: 56cd7859e 9ea88f22f
+
 4.) 
 commit 33ff1c03bb960b332be3af2e333462dde88b279e (tag: v0.12.24) 
 v0.12.24
