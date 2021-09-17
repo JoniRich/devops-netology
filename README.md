@@ -1,65 +1,87 @@
 Васильев Евгений
-Домашнее задание к занятию «2.4. Инструменты Git»
 
-1.) aefead2207ef7e2aa5dc81a34aedf0cad4c32545 Update CHANGELOG.md
+Домашнее задание к занятию "3.1. Работа в терминале, лекция 1"
 
-2.) tag: v0.12.23
 
-3.) Merge: 56cd7859e 9ea88f22f
+я работаю в Ubuntu 20.04 (на работе и дома)
 
-4.) 
-commit 33ff1c03bb960b332be3af2e333462dde88b279e (tag: v0.12.24) 
-v0.12.24
 
-commit b14b74c4939dcab573326f4e3ee2a62e23e12f89  
-[Website] vmc provider links
+1.) установил VirtualBox (Oracle)
 
-commit 3f235065b9347a758efadc92295b540ee0a5e26e 
-Update CHANGELOG.md
 
-commit 6ae64e247b332925b872447e9ce869657281c2bf 
+2.) установил Vagrant
 
-registry: Fix panic when server is unreachable
+
+3.) пользуюсь многооконным терминалом Tilix (https://gnunn1.github.io/tilix-web/)
+
+
+4.) создал внутри каталога devops-netology каталог vagrant, отредактировал файл Vagrantfile, далее запустил vagrant init затем vagrant up и vagrant shh - попал в свою виртуалку
+
+
+5.) по умолчанию выделенны следующие ресурсы:
+
     
-    Non-HTTP errors previously resulted in a panic due to dereferencing the
-    resp pointer while it was nil, as part of rendering the error message.
-    This commit changes the error message formatting to cope with a nil
-    response, and extends test coverage.
-    
-    Fixes #24384
+    оперативная память 1024 Мб
 
-commit 5c619ca1baf2e21a155fcdb4c264cc9e24a2a35  
+    процессор  2
 
-website: Remove links to the getting started guide's old location
-    
-    Since these links were in the soon-to-be-deprecated 0.11 language section, I
-    think we can just remove them without needing to find an equivalent link.
+    жесткий диск 62.55 GiB
 
-commit 06275647e2b53d97d4f0a19a0fec11f6d69820b5 
-Update CHANGELOG.md
 
-commit d5f9411f5108260320064349b757f55c09bc4b80 
-command: Fix bug when using terraform login on Windows
+6.) добавить оперативку можно так в Vagrantfile
 
-commit 4b6d06cc5dcb78af637bbb19c198faff37a066ed 
-Update CHANGELOG.md
+     config.vm.customize [
+                        "modifyvm", :id,
+                        "--name", "Test_Environment",
+                        "--memory", "1024"
+                      ]
 
-commit dd01a35078f040ca984cdd349f18d0b67e486c35 
-Update CHANGELOG.md
+7.) Выполнил vagrant ssh, внутри в командной строке в своем терминале проделал выполнение некоторых команд типа ls, ls -a, cd, fdisk -l и прочие ...
 
-commit 225466bc3e5f35baa5d07197bbc079345b77525e   
-Cleanup after v0.12.23 release
 
-commit 85024d3100126de36331c6982bfaac02cdab9e76 (tag: v0.12.23) 
+8.) Ознакомился с man bash
 
-v0.12.23
+   a) Переменной HISTSIZE  можно задать длинну журнала history, описывается это на 936 строке мануала man bash
+   
+   b) значение ignoreboth - это сокращение от «ignorespace» и «ignoredups», например если установить в переменную это значение,  то строки, начинающиеся с пробела и   дубликаты, не будут сохранены
 
-5.)  main: Honor explicit provider_installation CLI config when present
 
-6.) 
+9.) {} позволяют объединить несколько операторов в один составной, это один из условных знаков, помогающих сократить количество писанины в командной строке в man bash информация находится на 442 строке в разделе Function name, искал в man bash вот так (man bash и далее /braces)
 
-35a058fb3 main: configure credentials from the CLI config file
-c0b176109 prevent log output during init
-8364383c3 Push plugin discovery down into command package
 
-7.) Author: Martin Atkins
+10.) touch a{1..100000} 100000 файлов создает спонойно, но 300000 не может создать, выдает ошибку - touch a{1..300000} Слишком длинный список аргументов, это происходит по причине, что файлов больше чем допустимый лимит, допустимый лимит можно проверить командой getconf ARG_MAX
+
+
+11.) [[ -это улучшение bash по сравнению с командой [,  больше не нужно цитировать переменные, потому что [[ обрабатывает пустые строки и строки с whitespace более интуитивно
+     [[ -d /tmp ]] проверяет условие в данном случае наличие каталога, сделал небольшой скрипт на этот случай
+
+     #!/bin/bash
+
+if [[ -d /tmp ]]; then 
+echo "Каталог существует!"
+else
+echo "Каталог не существует!"
+fi
+
+12.) 
+   a) создал каталоги $HOME:tmp/netology
+
+   б) скопировал bash cp /bin/bash home/vagrant/tmp/netology
+
+   в) добавил переменную PATH=$PATH:home/vagrant/tmp/netology
+   получил вывод: type -a bash 
+
+   bash is /usr/bin/bash
+
+   bash is /bin/bash
+
+   bash is /home/vagrant/tmp/netology/bash 
+   
+   (не разобрался только как первой строкой поставить)
+
+
+
+13.) Команда at используется для назначения одноразового задания на заданное время, а команда batch — для назначения одноразовых задач, которые должны выполняться, когда загрузка системы становится меньше 1,5
+
+
+14.) выключить виртуалку можно коммандой init 0 (обычно так и выключаю)
