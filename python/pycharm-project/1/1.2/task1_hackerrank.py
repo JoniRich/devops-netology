@@ -7,7 +7,7 @@
 # Если  является четным и находится в инклюзивном диапазоне 6 к , 20 Распечатать Weird
 # Если  даже и больше, чем 20 , Распечатать Not Weird
 
-# рабочая прога на ХакерРанг https://www.hackerrank.com/challenges/py-if-else/problem
+# рабочая прога на ХакерРанк https://www.hackerrank.com/challenges/py-if-else/problem
 
 # n = int(input("Введите целое число :")) и так тоже работает а на сайте только вот так: n = int(input().strip())
 
