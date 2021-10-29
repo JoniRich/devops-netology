@@ -11,6 +11,8 @@
 
 # n = int(input("Введите целое число :")) и так тоже работает а на сайте только вот так: n = int(input().strip())
 
+# File task 1 hackerrank
+
 n = int(input("Введите число: ").strip())
 
 if 1 <= n <= 100:
