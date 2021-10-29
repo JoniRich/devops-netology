@@ -11,7 +11,7 @@
 
 # n = int(input("Введите целое число :")) и так тоже работает а на сайте только вот так: n = int(input().strip())
 
-# File task 1 hackerrank
+# File task 1 hackerrank author: JoniRich
 
 n = int(input("Введите число: ").strip())
 
