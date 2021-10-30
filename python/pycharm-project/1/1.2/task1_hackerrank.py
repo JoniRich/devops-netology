@@ -14,7 +14,7 @@
 
 # File task 1 hackerrank author: Evgeny Vasilyev (JoniRich)
 
-# Мне нравится изучать язык программирования Python!
+# Мне нравится изучать язык программирования Python - это мощный инструмент!
 
 n = int(input("Введите число: ").strip())
 
