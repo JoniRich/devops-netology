@@ -1,1 +1,2 @@
 added folder terraform to devops-netology project
+Данная БД будет изучатся в рамках курса DevOps-engineering
