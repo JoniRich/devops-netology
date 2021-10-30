@@ -14,6 +14,8 @@
 
 # File task 1 hackerrank author: Evgeny Vasilyev (JoniRich)
 
+# Мне нравится изучать язык программирования Python!
+
 n = int(input("Введите число: ").strip())
 
 if 1 <= n <= 100:
