@@ -12,7 +12,7 @@
 
 # n = int(input("Введите целое число :")) и так тоже работает а на сайте только вот так: n = int(input().strip())
 
-# File task 1 hackerrank author: Evgeny Vasilyev (JoniRich) apostol161077@gmail.com
+# File task 1 hackerrank author: Evgeny Vasilyev (JoniRich) apostol161077@gmail.com //
 
 # Мне нравится изучать язык программирования Python - это мощный инструмент!
 
