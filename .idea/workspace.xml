@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="468d0a59-c02b-4e0b-a2c6-7c9a13368201" name="Changes" comment="added pyfile01.py (test file) to python project">
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/Операционные системы-1-2/ДЗ-Лекция_1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database-administration/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/old-tasks/работа в терминале-1-и-2/Домашняя работа (доработка пункт 12).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terraform/infofile" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,23 +40,33 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26NSqgNZpTL617vAeNLi6mkcgtS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/devops-netology/old-tasks/Операционные системы-1-2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\devops-netology\old-tasks\Операционные системы-1-2" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="pyfile01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="devops-netology" />
@@ -82,7 +99,12 @@
       <option name="presentableId" value="Default" />
       <updated>1647262743738</updated>
       <workItem from="1674299211763" duration="20587000" />
-      <workItem from="1674459441349" duration="3571000" />
+      <workItem from="1674459441349" duration="4188000" />
+      <workItem from="1674538051245" duration="3304000" />
+      <workItem from="1674745527840" duration="4010000" />
+      <workItem from="1674774191284" duration="3000" />
+      <workItem from="1674825530730" duration="4557000" />
+      <workItem from="1674896170540" duration="12706000" />
     </task>
     <task id="LOCAL-00001" summary="added pyfile01.py (test file) to python project">
       <created>1647726537619</created>
@@ -109,6 +131,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added pyfile01.py (test file) to python project" />
     <option name="LAST_COMMIT_MESSAGE" value="added pyfile01.py (test file) to python project" />
   </component>
