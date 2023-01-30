@@ -5,18 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="468d0a59-c02b-4e0b-a2c6-7c9a13368201" name="Changes" comment="added pyfile01.py (test file) to python project">
-      <change afterPath="$PROJECT_DIR$/old-tasks/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old-tasks/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old-tasks/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old-tasks/img/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old-tasks/img/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old-tasks/img/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old-tasks/img/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old-tasks/img/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old-tasks/img/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old-tasks/Операционные системы-1-2/ДЗ-Лекция_1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/FileSys/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/FileSys/00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/FileSys/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/FileSys/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/FileSys/3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/OS_2/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/OS_2/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/OS_2/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/OS_2/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/OS_2/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/OS_2/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/OS_2/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/OS_2/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/img/OS_2/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old-tasks/Операционные системы-1-2/ДЗ-Лекция_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vagrant-01/.vagrant/bundler/global.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vagrant-01/.vagrant/machines/default/virtualbox/action_provision" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vagrant-01/.vagrant/machines/default/virtualbox/action_set_name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vagrant-01/.vagrant/machines/default/virtualbox/box_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vagrant-01/.vagrant/machines/default/virtualbox/creator_uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vagrant-01/.vagrant/machines/default/virtualbox/id" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vagrant-01/.vagrant/machines/default/virtualbox/index_uuid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vagrant-01/.vagrant/machines/default/virtualbox/private_key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vagrant-01/.vagrant/machines/default/virtualbox/synced_folders" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vagrant-01/.vagrant/machines/default/virtualbox/vagrant_cwd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vagrant-01/.vagrant/rgloader/loader.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vagrant-01/Vagrantfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vagrant-01/disks/disk1.vdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vagrant-01/disks/disk2.vdi" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/9.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,21 +75,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/devops-netology/old-tasks/Операционные системы-1-2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/devops-netology/old-tasks/Операционные системы-1-2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\devops-netology\old-tasks\Операционные системы-1-2" />
@@ -104,7 +132,9 @@
       <workItem from="1674745527840" duration="4010000" />
       <workItem from="1674774191284" duration="3000" />
       <workItem from="1674825530730" duration="4557000" />
-      <workItem from="1674896170540" duration="12706000" />
+      <workItem from="1674896170540" duration="15454000" />
+      <workItem from="1674995711141" duration="8501000" />
+      <workItem from="1675061933225" duration="7299000" />
     </task>
     <task id="LOCAL-00001" summary="added pyfile01.py (test file) to python project">
       <created>1647726537619</created>

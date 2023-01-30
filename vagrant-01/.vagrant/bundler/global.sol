@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-reload",["= 0.0.1"]],["vagrant-windows-update",["= 0.0.7"]]],"checksum":"256f522ca6ef4a7e0c4a2ae12be16a8dc5f14442cca4f2fd4ab6fc0e9bdbdb59","vagrant_version":"2.2.19"}
