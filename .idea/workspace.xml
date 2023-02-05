@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="468d0a59-c02b-4e0b-a2c6-7c9a13368201" name="Changes" comment="added pyfile01.py (test file) to python project">
-      <change afterPath="$PROJECT_DIR$/old-tasks/Файловые системы/Файловые_системы.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/devops-netology/old-tasks/Файловые системы/Файловые_системы.md",
+    "last_opened_file_path": "F:/devops-netology",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,6 +54,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\devops-netology" />
       <recent name="F:\devops-netology\old-tasks\Файловые системы" />
       <recent name="F:\devops-netology\old-tasks\Операционные системы-1-2" />
     </key>
@@ -103,7 +103,8 @@
       <workItem from="1675349769984" duration="367000" />
       <workItem from="1675350147151" duration="182000" />
       <workItem from="1675350347981" duration="453000" />
-      <workItem from="1675438072629" duration="9836000" />
+      <workItem from="1675438072629" duration="12046000" />
+      <workItem from="1675600436835" duration="3031000" />
     </task>
     <task id="LOCAL-00001" summary="added pyfile01.py (test file) to python project">
       <created>1647726537619</created>
