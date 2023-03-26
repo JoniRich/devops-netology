@@ -6,7 +6,74 @@
   <component name="ChangeListManager">
     <list default="true" id="468d0a59-c02b-4e0b-a2c6-7c9a13368201" name="Changes" comment="added pyfile01.py (test file) to python project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netology.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/netology.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/3a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/FileSys/9a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/OS_2/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/OS_2/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/OS_2/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/OS_2/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/OS_2/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/OS_2/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/OS_2/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/OS_2/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/OS_2/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks1/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks1/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks1/2a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks1/2b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks1/2c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks1/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks1/4a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks1/4b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks1/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks1/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks1/7a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks1/7b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks1/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks2/1a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks2/1b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks2/1c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks2/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks2/5a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks3/1a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks3/1b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks3/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks3/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks3/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks3/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/img/networks3/5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/Компьютерные сети/Лекции/1/Компьютерные_сети__лекция_1_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/Компьютерные сети/Лекции/2/Компьютерные_сети__лекция_2_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/Компьютерные сети/Лекции/3/-net_pt3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/Операционные системы-1-2/ДЗ-Лекция_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/Операционные системы-1-2/ДЗ-Лекция_2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/Операционные системы-1-2/Лекции/1/DEVSYS-25__Операционные_системы__лекция_1_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/Операционные системы-1-2/Лекции/2/DEVSYS-24__Операционные_системы__лекция_2_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/Файловые системы/Лекция/Файловые_системы.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/Файловые системы/Файловые_системы.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/работа в терминале-1-и-2/old1-README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old-tasks/работа в терминале-1-и-2/old2-README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
