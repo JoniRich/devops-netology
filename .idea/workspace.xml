@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="468d0a59-c02b-4e0b-a2c6-7c9a13368201" name="Changes" comment="added pyfile01.py (test file) to python project">
-      <change afterPath="$PROJECT_DIR$/README3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old-tasks/img/networks3/1a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old-tasks/img/networks3/1b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old-tasks/img/networks3/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old-tasks/img/networks3/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old-tasks/img/networks3/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old-tasks/img/networks3/5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netology.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/netology.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/devops-netology&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jonirich/devops-netology&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
